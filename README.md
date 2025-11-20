@@ -1,1 +1,13 @@
-# tugas-pertemuan-10-
+# Tugas-Pertemuan-10
+## Nama : Anindha Latiefa Zahra
+## NIM : 312210323
+## Kelas : TI.22.A.SE.1
+## Mata Kuliah : Kecerdasan Buatan
+
+Repository ini berisi implementasi metode ensemble pada Alcohol QCM Sensor Dataset.
+Proyek ini mencakup:
+- Import dan eksplorasi dataset
+- Pra-pemrosesan data
+- Training model ensemble (Bagging, Boosting, XGBoost, Stacking, Voting Classifier)
+- Evaluasi performa model menggunakan accuracy, precision, recall, dan F1-score
+- Visualisasi perbandingan model
